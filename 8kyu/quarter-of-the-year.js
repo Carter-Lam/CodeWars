@@ -10,5 +10,3 @@ Constraint:
 
 const quarterOf = month => Math.ceil(month/3);
 
-
-let p = 0;
